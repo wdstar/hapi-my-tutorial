@@ -1,0 +1,33 @@
+{
+  "name": "my-tutorial",
+  "version": "1.0.0",
+  "description": "hapi tutorial",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.io.example.com:hapi/my-tutorial.git"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "author": "wdstar",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "good": "^7.3.0",
+    "good-console": "^6.4.0",
+    "good-squeeze": "^5.0.2",
+    "hapi": "^16.6.2",
+    "inert": "^4.2.1"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "cucumber": "^3.0.5",
+    "eslint": "^4.9.0",
+    "mocha": "^4.0.1",
+    "sinon": "^4.0.1"
+  }
+}
