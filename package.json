@@ -18,7 +18,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "good": "^7.3.0",
-    "good-console": "^6.4.0",
+    "good-console": "^8.0.0",
     "good-squeeze": "^5.0.2",
     "hapi": "^16.6.2",
     "inert": "^4.2.1"
